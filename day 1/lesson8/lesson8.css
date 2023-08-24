@@ -1,0 +1,18 @@
+input{
+    display: block;
+}
+
+.paragraph{
+    display: inline-block;
+    vertical-align: middle;
+    width: 150px;
+}
+
+.img{
+    text-align: center;
+}
+
+.google{
+    margin-left: 600px;;
+    width: 300px;
+}

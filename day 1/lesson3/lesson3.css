@@ -1,0 +1,103 @@
+.uber{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    display :block;
+    margin: 10px;
+}
+
+.uber:hover{
+    opacity: 0.8;
+}
+
+.Amazon{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border-radius: 10%;
+    cursor: pointer;
+    display: block;
+    margin: 20px;
+    padding: 10px;
+    width: 200px ;
+    border: none;
+}
+
+.Amazon:hover{
+    background-color:yellow;
+}
+
+.GitHub{    
+    cursor: pointer;
+    background-color:rgb(46,164,79);
+    border: none;
+    color:white;
+    width: 70px;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+}
+
+.GitHub:hover{
+    box-shadow: 1px 3px 1px rgb(0,0,0,0.4) ;
+}
+
+
+.bootstrap1{
+    cursor: pointer;
+    background-color:rgb(121,82,179);
+    border: none;
+    color:white;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 6px;
+}
+
+.bootstrap1:hover{
+    background-color: blue;
+}
+
+.bootstrap2{
+    cursor: pointer;
+    color:rgb(108,117,125);
+    border-color:rgb(108,117,125);
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.bootstrap2:hover{
+    background-color:rgb(121,82,179) ;
+    color: white;
+}
+
+.LinkedIn1{
+    cursor: pointer;
+    background-color:rgb(10,102,194);
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    margin: 8px;
+    padding: 7px;
+    border: none;
+    border-width: 3px;
+}
+
+.LinkedIn1:hover{
+    background-color: blueviolet;
+}
+.LinkedIn2{
+    cursor: pointer;
+    color:rgb(10,102,194);
+    border-radius: 20px;
+    width: 70px;
+    margin: 8px;
+    padding: 7px;
+    border-color: rgb(10,102,194);
+}
+.LinkedIn2:hover{
+    background-color: aqua;
+    border-width: 3px;
+}

@@ -1,0 +1,21 @@
+.SUBSCRIBE{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+}
+.join{
+    color: rgb(29, 155, 240);
+    border-color:rgb(29, 155, 240) ;
+    padding: 9px;
+    margin: 5px;
+}
+.tweet{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 9px;
+    margin: 5px;
+}

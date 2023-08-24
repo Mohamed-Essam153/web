@@ -1,0 +1,65 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+
+
+.q5a{
+    font-family: Tahoma;
+    font-size:25px;
+    font-weight:bold;
+
+}
+
+.q5b1{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+.q5b2{
+    font-family: Arial;
+    font-size: 15px;
+    font-style: italic; 
+    color: red;
+}
+
+.q5c1{
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: bold; 
+}
+
+.q5c2{
+    font-family: Verdana;
+    font-size: 10px;
+}
+.q5c3{
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.q5d1{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.q5d2{
+    font-family: arial;
+    font-size: 15px;
+    text-align: center;
+}
+.q5d3{
+    font-family: arial;
+    font-size: 15px;
+    color: cornflowerblue;
+    text-align: center;
+}

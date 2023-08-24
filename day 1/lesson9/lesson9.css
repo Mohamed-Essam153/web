@@ -1,0 +1,48 @@
+
+.div1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+
+.div2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+.div3{
+    height: 50px;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+button{
+    margin: 1px;
+}
+
+.div4{
+    background-color: black;
+    color: white;
+    width: 400px;
+    margin: 10px;
+    margin-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    font-family: arial;
+
+}
+
+.P1{
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bbold;
+    margin: 0px;
+    margin-top: 10px;
+}
