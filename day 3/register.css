@@ -1,0 +1,38 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid burlywood;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  .submitbtn,.resetbtn {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 2px;
+  }
+
+  .submitbtn:hover,.resetbtn:hover {
+    opacity: 0.8;
+    background-color: blue;
+
+  }
